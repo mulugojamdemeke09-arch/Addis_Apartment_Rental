@@ -289,3 +289,4 @@ Bole · Kazanchis · Old Airport · CMC · Sarbet · Lebu · Ayat.
 | Session form token expired | Reload `post_apartment.php` to mint a fresh token, then submit again. |
 | Phone number not clickable on desktop | `tel:` links need a configured dialer app; use the **Copy number** button instead. |
 # Apartment_Rental_management
+# Apartment_Rental_management
